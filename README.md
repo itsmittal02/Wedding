@@ -4,35 +4,35 @@ You can Register and login,view your profile and edit your profile ,change your 
 
 
 
-            <!-- Index Page-->
+            <!--Index_Page-->
          
         ![Screenshot (652)](https://user-images.githubusercontent.com/94986091/188501257-fa3f2028-d671-4b51-a8d6-56bb7814d22a.png)
 
         
         
-        <!-- Login Page-->
+        <!--Login_Page-->
         ![Screenshot (653)](https://user-images.githubusercontent.com/94986091/188501229-46d92546-cfd5-45b1-9898-bfcec9175fc5.png)
 
 
 
-        <!-- Registration Page-->
+        <!--Registration_Page-->
         
         ![Screenshot (654)](https://user-images.githubusercontent.com/94986091/188501276-16a18c63-5dce-4474-b004-536edf3537b5.png)
         ![Screenshot (655)](https://user-images.githubusercontent.com/94986091/188501299-58c0036a-4217-4d58-825d-2c8e152a39d6.png)
 
 
      
-       <!--User Profile-->
+       <!--View_Profile-->
        ![Screenshot (656)](https://user-images.githubusercontent.com/94986091/188501328-a2a03df4-60fd-494d-91ff-09690b8278bd.png)
        ![Screenshot (657)](https://user-images.githubusercontent.com/94986091/188501356-ba941409-6f79-4bda-952e-639fe020a81d.png)
 
 
-     <!--Edit Profile-->
+     <!--Edit_Profile-->
         ![Screenshot (658)](https://user-images.githubusercontent.com/94986091/188501395-f913ebc8-6b02-464f-a8f6-efad4349bf7e.png)
 
 
 
-     <!-- Change Password-->
+     <!--Change_Password-->
         ![Screenshot (659)](https://user-images.githubusercontent.com/94986091/188501434-2bfca479-655e-4295-af58-f0ded7df5b38.png)
 
 
@@ -49,10 +49,10 @@ You can Register and login,view your profile and edit your profile ,change your 
   <!--Inbox-->
      ![Screenshot (663)](https://user-images.githubusercontent.com/94986091/188501569-9ed282cb-733e-44ed-a339-5f6c648e1645.png)
 
-   <!-- Sent-->
+   <!--Sent-->
      ![Screenshot (664)](https://user-images.githubusercontent.com/94986091/188501627-6f556b8a-d397-4c09-854e-980914e744df.png)
      
-   <!-- Interested-->
+   <!--Interested-->
      ![Screenshot (665)](https://user-images.githubusercontent.com/94986091/188501680-54fcc140-bc39-471a-bb8f-72de8b6f2ab1.png)
      
     
