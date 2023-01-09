@@ -1,4 +1,4 @@
-<!--A Design by W3layouts
+ <!--A Design by W3layouts
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -117,7 +117,8 @@ $(document).ready(function(){
     </div>
   </div> 
 </div> 
-<div class="grid_1">
+
+<!--<div class="grid_1">
       <div class="container">
       	<h1>Featured Profiles</h1>
        	<div class="heart-divider">
@@ -127,11 +128,12 @@ $(document).ready(function(){
 			<span class="grey-line"></span>
         </div>
         <ul id="flexiselDemo3">
-	      <li><div class="col_1"><a href="view_profile.html">
+	      <li><div class="col_1"><a href="view_profile.html"></a>
 			<img src="images/1.jpg" alt="" class="hover-animation image-zoom-in img-responsive"/>
              <div class="layer m_1 hidden-link hover-animation delay1 fade-in">
                 <div class="center-middle">About Him</div>
              </div>
+			  
              <h3><span class="m_3">Profile ID : MI-387412</span><br>28, Christian, Australia<br>Corporate</h3></a></div>
           </li>
 		  <li><div class="col_1"><a href="view_profile.html">
@@ -199,10 +201,124 @@ $(document).ready(function(){
 	   </script>
 	   <script type="text/javascript" src="js/jquery.flexisel.js"></script>
     </div>
-</div>
+	</div>-->
+	
+	
+	
+	
+	
+	
+	<!-- Start Middle part -->
+	 <div class="row">
+	      <div class="container-fluid">  
+		  <div class="card w3-card-2" style="width:1600px">
+		<div class="card-body">
+		 <div class="row"   style="background-image:url(images/wall.jpg);height:auto  "> 
+	   <div class="col-sm-12" ><br><br><br><center><h2 style= " background-color:#F0F3EB ; color:purple ; margin-top:20px">Introducing Shaadi Meet!</h2></br></br></br></center></div>
+	       <div class="col-sm-6">
+	          <img src ="https://img2.shaadi.com/assests/2020/images/Home-Couple-Optimized.png" class="img-fluid" style="cursor: pointer">
+	        </div>
+			<div class="col-sm-6">
+			   <img src="https://img2.shaadi.com/assests/2020/images/meet-badge.svg" class="img-fluid" style="cursor: pointer">
+			   <h2>Now meet your Matches over<br>video call</h2><br><br><br><br>
+                <h3 style="color:black">Available on the Humsafar.com App</h3><br><br>
+				<img src="https://img2.shaadi.com/assests/2020/images/google-play-badge.svg" class="img-fluid" style="cursor: pointer">&nbsp;&nbsp;&nbsp;
+				<img src ="https://img2.shaadi.com/assests/2020/images/apple-store-badge.svg" class="img-fluid" style="cursor: pointer">
+			 </div>
+	   </div>
+	 </div>
+	</div>
+	 </div>
+  </div>	
+<!-- End Middle Part -->  
+	
+	
+	
+	<!-- Matching Part -->
+	  
+	 <div class="row">
+	    <div class="col-sm-12" style="background-color: #F0F3EB"><br><center><h2 style="color:#FB4D81">Millions of Happy Stories</h2></center><br></div>
+		  
+		<div class="container-fluid">
+        <div class="row" style="background-image:url(images/soil.jpg);height:auto" >
+			 				 
+						<div class="col-sm-4">
+							<!--<h3>Relationship Advise</h3>-->
+							  <div class="card w3-card-2" style="width:400px">
+								<div class="card-body">
+									<table class="table table-borderless"><tr><td>
+										<img class="card-img-top" src="https://img.shaadi.com/success-story/bSH25262750-5SH81435457-big.jpg" alt="Card image" style="width:100%"></td></tr>
+									<tr><td>
+									   <p class="card-text">
+										Life is Worthwhile With a Companion Trying to manage your life on your own is a big challenge. For my own experience having a companion works out best. You should have someone with whom you can discuss any subject or issues in a comfortable way. Singles who are searching for a partner can greatly benefit from Shadi matrimonial. Life becomes easier and worthwhile with a companion who always looks out for your best interest.</p>
+									</td></tr>
+									</table>
+								</div>
+							  </div>
+						 </div>	
+                       
+					  
+
+					  <div class="col-sm-4">
+							<!--<h3>Relationship Advise</h3>-->
+							  <div class="card w3-card-2" style="width:400px">
+								<div class="card-body">
+									<table class="table table-borderless">
+									<tr><td>
+										<img class="card-img-top" src="https://img.shaadi.com/success-story/sSH20032824-LSH80479566-big.jpg" alt="Card image" style="width:100%"></td></tr>
+									<tr><td>
+									   <p class="card-text">
+										Life is Worthwhile With a Companion Trying to manage your life on your own is a big challenge. For my own experience having a companion works out best. You should have someone with whom you can discuss any subject or issues in a comfortable way. Singles who are searching for a partner can greatly benefit from Shadi matrimonial. Life becomes easier and worthwhile with a companion who always looks out for your best interest.</p>
+									</td></tr>
+									</table>
+								</div>
+							  </div>
+						 </div>
+                          
+						 
+
+						 <div class="col-sm-4">
+							<!--<h3>Relationship Advise</h3>-->
+							  <div class="card w3-card-2" style="width:400px"> 				
+								<div class="card-body">
+									<table class="table table-borderless"><tr><td>
+										<img class="card-img-top" src="https://img.shaadi.com/success-story/7SH82581010-NSH21931550-big.jpg" alt="Card image" style="width:100%"></td></tr>
+									<tr><td>
+									   <p class="card-text">
+										Life is Worthwhile With a Companion Trying to manage your life on your own is a big challenge. For my own experience having a companion works out best. You should have someone with whom you can discuss any subject or issues in a comfortable way. Singles who are searching for a partner can greatly benefit from Shadi matrimonial. Life becomes easier and worthwhile with a companion who always looks out for your best interest.</p>
+									</td></tr>
+									</table>
+								</div>
+							  </div>
+						 </div>
+						 
+						 
+						 
+						 
+						 				
+						 
+  </div>
+  </div>
+  </div><br><br><br>
+	
+	<!-- End Matching  Part-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
 <div class="grid_2">
 	<div class="container">
-		<h2>Success Stories</h2>
+		<h2 style="margin-top:20px">Success Stories</h2>
        	<div class="heart-divider">
 			<span class="grey-line"></span>
 			<i class="fa fa-heart pink-heart"></i>
